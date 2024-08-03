@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -20,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
