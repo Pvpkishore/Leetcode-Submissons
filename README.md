@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0151-reverse-words-in-a-string) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
