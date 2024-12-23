@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 ## String
@@ -44,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 ## Binary Search
