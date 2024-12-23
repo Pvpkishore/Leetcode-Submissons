@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2556-convert-the-temperature) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
