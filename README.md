@@ -34,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 ## String
@@ -42,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
