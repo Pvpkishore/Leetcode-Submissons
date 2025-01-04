@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
