@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2556-convert-the-temperature) |
 ## Two Pointers
@@ -41,6 +43,7 @@
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
@@ -67,12 +70,14 @@
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -127,4 +132,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
