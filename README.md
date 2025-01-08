@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -85,6 +86,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
