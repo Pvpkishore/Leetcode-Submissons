@@ -18,6 +18,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0792-binary-search) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
@@ -92,6 +93,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
