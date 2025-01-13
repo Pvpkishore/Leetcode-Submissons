@@ -19,9 +19,9 @@ public:
                 maxFreq = max(maxFreq, count);
                 minFreq = min(minFreq, count);
             }
-
+            int Beauty = (maxFreq - minFreq);
             // Add the beauty of the current substring
-            totalBeauty += (maxFreq - minFreq);
+            totalBeauty += Beauty;
         }
     }
 
