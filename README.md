@@ -165,4 +165,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
