@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
