@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
@@ -183,6 +184,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 ## Linked List
 |  |
