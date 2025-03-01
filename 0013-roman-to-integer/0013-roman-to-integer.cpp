@@ -6,14 +6,18 @@ public:
             {'C', 100}, {'D', 500}, {'M', 1000}
         };
         int result = 0;
-      for(int i=0;i < s.size();i++){
+
+        for(int i=0;i < s.size();i++){
+
          if (i < s.size() - 1 && romanMap[s[i]] < romanMap[s[i + 1]]) {
                 // Apply subtraction rule
                 result -= romanMap[s[i]];
-            } else {
+            }
+            else {
                 // Add value normally
                 result += romanMap[s[i]];
             }
+            
       }
        return result;
     }
