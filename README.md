@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0035-search-insert-position) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0141-linked-list-cycle) |
