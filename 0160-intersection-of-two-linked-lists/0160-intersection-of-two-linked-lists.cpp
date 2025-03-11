@@ -12,7 +12,6 @@ public:
 
         // If either list is empty, no intersection
         if(headA==NULL || headB==NULL) return nullptr;
-
         
         ListNode* pointerA = headA;
         ListNode* pointerB = headB;
