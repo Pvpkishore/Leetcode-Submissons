@@ -32,7 +32,6 @@ public:
                 left = mid + 1;
             }
         }
-
         // Store the last occurrence
         result[1] = right;
         
