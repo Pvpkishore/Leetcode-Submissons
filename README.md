@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
