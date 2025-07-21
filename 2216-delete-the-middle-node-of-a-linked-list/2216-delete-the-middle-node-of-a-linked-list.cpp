@@ -19,11 +19,6 @@ public:
       if(!head || !head->next){
         return nullptr;
       }
-    //   if(head->next==NULL){
-    //      head = NULL; 
-    //      delete head;
-    //      return head;
-    //   }
 
       while(fast!=NULL){
         fast=fast->next;
@@ -39,7 +34,7 @@ public:
 
       slow->next=NULL;
       delete slow;
-
+    
     return head;
     }
 };
