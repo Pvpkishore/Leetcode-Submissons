@@ -5,15 +5,13 @@ public:
         if(nums.size()==0){
             return 0;
         }
-        else{
-            int j=0;
-          for(int i=1;i<nums.size();i++){
-            if(nums[j]!=nums[i]){
-                nums[++j]=nums[i];
+         int j = 0;
+         for(int i=1;i<nums.size();i++){
+            if(nums[i]!=nums[j]){
+                j++;
             }
-          }
-          return j+1;
-        }
-
-        }
+            nums[j] = nums[i];
+         }
+      return j+1;
+    }
 };
