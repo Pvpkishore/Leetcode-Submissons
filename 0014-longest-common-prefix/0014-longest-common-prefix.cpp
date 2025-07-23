@@ -2,7 +2,9 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& v) {
         string ans = "";  // Initialize the result string to store the common prefix
+
         sort(v.begin(), v.end());  // Sort the array of strings lexicographically
+        
         int n = v.size();  // Get the size of the vector
 
         // Get the first and the last strings in the sorted vector
