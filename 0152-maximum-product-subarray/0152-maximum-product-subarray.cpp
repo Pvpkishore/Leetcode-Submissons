@@ -14,9 +14,10 @@ public:
 
             currmax = max({nums[i],nums[i]*currmax,nums[i]*currmin});
             currmin = min({nums[i],nums[i]*temp,nums[i]*currmin});
-           
+            
             maxprod = max (maxprod,currmax);
         }
+
     return maxprod;
     }
 };
