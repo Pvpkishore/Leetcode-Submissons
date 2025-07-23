@@ -72,9 +72,9 @@ public:
 
             // Traverse from right to left across the bottom row (if needed)
             if (top <= bottom) {
-                for (int i = right; i >= left; i--) {
+                 for (int i = right; i >= left; i--) {
                     result.push_back(matrix[bottom][i]);
-                }
+                 }
                 bottom--; // Move the bottom boundary up
             }
 
