@@ -25,8 +25,8 @@ public:
             even->next=even->next->next; // Move even pointer to the next even node
 
 
-            odd=odd->next;     // Advance odd pointer
-            even=even->next;  // Advance even pointer
+            odd=odd->next;       // Advance odd pointer
+            even=even->next;    // Advance even pointer
 
         }
 
