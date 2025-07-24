@@ -11,9 +11,7 @@
 class Solution {
 public:
  //Recursive aproach
-//    ListNode* reverseList(ListNode* &prev,ListNode* &curr){
-      
-
+// ListNode* reverseList(ListNode* &prev,ListNode* &curr){
 //       //Base case
 //       if(curr==NULL){
 //         //curr value is null so it stopped there now head is prev
@@ -30,7 +28,7 @@ public:
 
 //       return reverseList(prev,curr);
 //    }
-    ListNode* reverseList(ListNode* head) {
+ListNode* reverseList(ListNode* head) {
 
         //iterative Approach
 
