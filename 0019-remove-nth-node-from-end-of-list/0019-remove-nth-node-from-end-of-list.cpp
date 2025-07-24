@@ -12,25 +12,26 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
 
-       ListNode* dummy = new ListNode(0, head); // Dummy node for edge cases
+       ListNode* dummy = new ListNode(0); // Dummy node for edge cases 
+       dummy->next = head;
 
-       ListNode* second = dummy;
-       ListNode* first = dummy;
+       ListNode* slow = dummy;
+       ListNode* fast = dummy;
 
        
        for(int i=1;i<=n+1;i++){
-         first=first->next;
+           fast=fast->next;
        }
 
        // Move both pointers until first reaches the end
-        while (first) {
-            first = first->next;
-            second = second->next;  //second stops just before the nth node
+        while (fast) {
+            fast = fast->next;
+            slow = slow->next;  //second stops just before the nth node
         }
-        
+
         // Remove the nth node from end
-        second->next = second->next->next;
+        slow->next = slow->next->next;
         return dummy->next;
-        
+
     }
 };
