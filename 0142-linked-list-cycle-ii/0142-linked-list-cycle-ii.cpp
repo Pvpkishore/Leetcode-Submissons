@@ -28,7 +28,7 @@ public:
             }
         }
 
-        if(fast==NULL || fast->next==NULL) return nullptr;
+        if(fast==NULL || fast->next==NULL) return nullptr; 
          
          // Step 2: Find the starting node of the cycle
          slow = head;
