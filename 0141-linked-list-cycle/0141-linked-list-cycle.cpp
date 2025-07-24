@@ -36,7 +36,7 @@ public:
 
   while(fast!=NULL){
 
-    fast =fast->next;
+    fast = fast->next;
 
            if(fast!=NULL){
              slow=slow->next;
