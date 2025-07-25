@@ -47,31 +47,70 @@ public:
         // }
 
         // return result;
+        // queue<TreeNode*> q;
+
+        // vector<vector<int>> ans;
+
+        // if(root==NULL) return ans;
+
+        // q.push(root);
+
+        // while(!q.empty()){
+
+        //     int size=q.size();
+        //     vector<int> currentlevel;
+
+        //     for(int i=0;i<size;i++){
+
+        //         TreeNode* temp=q.front();
+        //         currentlevel.push_back(temp->val);
+        //         q.pop();
+
+        //         if(temp->left!=NULL) q.push(temp->left);
+        //         if(temp->right!=NULL) q.push(temp->right);
+                
+        //     }
+            
+        //     ans.push_back(currentlevel);
+        // }
+
+        // for(int i=0;i<ans.size();i++){
+        //     if(i%2!=0){
+        //         reverse(ans[i].begin(),ans[i].end());
+        //     }
+        // }
+
+        // return ans;
+
         queue<TreeNode*> q;
 
         vector<vector<int>> ans;
 
-        if(root==NULL) return ans;
+        if(root==NULL){
+            return ans;
+        }
+        
         q.push(root);
 
         while(!q.empty()){
 
-            int size=q.size();
-            vector<int> currentlevel;
+           int size=q.size();
+           vector<int> Currentlevel;
 
-            for(int i=0;i<size;i++){
+           for(int i=0;i<size;i++){
 
-                TreeNode* temp=q.front();
-                currentlevel.push_back(temp->val);
-                q.pop();
+             TreeNode* temp = q.front();
+             Currentlevel.push_back(temp->val);
+             q.pop();
 
-                if(temp->left!=NULL) q.push(temp->left);
-                if(temp->right!=NULL) q.push(temp->right);
-            }
-            ans.push_back(currentlevel);
+             if(temp->left!=NULL) q.push(temp->left);
+             if(temp->right!=NULL) q.push(temp->right);
+
+           }
+           ans.push_back(Currentlevel);
         }
 
-        for(int i=0;i<ans.size();i++){
+         for(int i=0;i<ans.size();i++){
             if(i%2!=0){
                 reverse(ans[i].begin(),ans[i].end());
             }
