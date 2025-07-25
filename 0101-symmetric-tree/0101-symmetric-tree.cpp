@@ -24,7 +24,7 @@ public:
             return (p==q);
         }
 
-        return (p->val,q->val) && ismirror(p->left,q->right) && ismirror(p->right,q->left);
+        return (p->val==q->val) && ismirror(p->left,q->right) && ismirror(p->right,q->left);
     }
 
     
