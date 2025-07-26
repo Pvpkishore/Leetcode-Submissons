@@ -12,6 +12,7 @@
  */
 class Solution {
 public:
+
     void storeInorder(TreeNode* root, vector<int>& inorder) {
         if (root == NULL) {
             return;
@@ -21,6 +22,7 @@ public:
         inorder.push_back(root->val);
         storeInorder(root->right, inorder);
     }
+
     bool checktwosum(vector<int> arr,int target) {
        int n=arr.size();
        int s=0;
@@ -41,11 +43,13 @@ public:
        return false;
     }
 
+
     bool findTarget(TreeNode* root, int k) 
     {
         vector<int> inorder;
         storeInorder(root,inorder);
         bool ans = checktwosum(inorder,k);
         return ans;
+
     }
 };
