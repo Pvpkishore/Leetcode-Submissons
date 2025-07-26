@@ -357,4 +357,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
