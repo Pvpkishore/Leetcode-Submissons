@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1890-sum-of-beauty-of-all-substrings) |
