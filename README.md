@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -154,6 +155,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -216,6 +218,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -357,6 +360,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
