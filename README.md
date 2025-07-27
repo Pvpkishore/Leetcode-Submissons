@@ -95,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -117,6 +118,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0812-rotate-string) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
