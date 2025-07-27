@@ -107,6 +107,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -129,6 +130,7 @@
 | [0812-rotate-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
@@ -229,6 +231,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
