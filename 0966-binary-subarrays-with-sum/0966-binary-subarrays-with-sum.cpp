@@ -9,14 +9,16 @@ public:
 
         for(auto num:nums){
             currSum += num;  // Update the running prefix sum
-        // Check if there is a previous prefix sum such that:
+         // Check if there is a previous prefix sum such that:
         // currSum - previousSum = goal → previousSum = currSum - goal
-            if (count.find(currSum - goal) != count.end()) 
+            if(count.find(currSum - goal) != count.end()) 
            {
              result += count[currSum - goal];  // Add the number of times it occurred
            }
+
         // Record the current prefix sum in the map
         count[currSum]++;
+        
     }
 
     return result;  // Return the total count of valid subarrays
