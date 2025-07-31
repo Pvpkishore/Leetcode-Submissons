@@ -38,6 +38,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
