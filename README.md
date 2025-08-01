@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0084-largest-rectangle-in-histogram) |
@@ -190,12 +191,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0890-lemonade-change) |
