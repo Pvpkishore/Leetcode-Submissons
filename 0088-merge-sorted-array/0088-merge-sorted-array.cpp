@@ -12,12 +12,14 @@ public:
                k--;
                i--;
             }
+
             else{
-                 nums1[k] = nums2[j];
-                 k--;
-                 j--;
+               nums1[k] = nums2[j];
+               k--;
+               j--;
             }
         }
+
 
 
       //just copying remaining elements from nums2 to nums1
