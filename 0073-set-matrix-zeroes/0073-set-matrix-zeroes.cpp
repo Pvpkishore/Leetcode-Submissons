@@ -16,14 +16,12 @@ class Solution {
             }
         }
 
-
         for(int i=0;i<rows;++i){
             if(rowzero[i])
             for (int j = 0; j < cols; j++) {
                     matrix[i][j] =0;
             }
          }
-
 
          for(int j=0;j<cols;++j){
             if(colzero[j]){
@@ -32,5 +30,6 @@ class Solution {
             }
             }
          }
+         
     }
 };
