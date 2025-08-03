@@ -29,10 +29,10 @@ public:
                 return INT_MAX;
              }
 
-
              if (sign == -1 && -result < INT_MIN) {
                 return INT_MIN;
             }
+
                i++;   
          }
          
