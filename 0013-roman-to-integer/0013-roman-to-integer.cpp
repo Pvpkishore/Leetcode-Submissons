@@ -17,8 +17,9 @@ public:
                 // Add value normally
                 result += romanMap[s[i]];
             }
-            
       }
+
        return result;
+       
     }
 };
