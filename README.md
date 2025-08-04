@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0496-next-greater-element-i) |
@@ -171,6 +172,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +203,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
