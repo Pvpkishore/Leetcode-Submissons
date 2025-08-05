@@ -141,6 +141,7 @@
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -216,6 +217,7 @@
 | [0455-assign-cookies](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
@@ -234,6 +236,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
