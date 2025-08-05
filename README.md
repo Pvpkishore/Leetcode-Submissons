@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0966-binary-subarrays-with-sum) |
