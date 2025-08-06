@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
@@ -62,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
@@ -434,4 +436,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
