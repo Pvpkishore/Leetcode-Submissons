@@ -8,6 +8,7 @@ public:
        for(int right=0;right<s.size();right++){
 
             count[s[right]-'A']++;
+            
             maxCount = max(maxCount,count[s[right]-'A']);
 
         //If window size - maxCount > k, shrink the window
@@ -15,8 +16,9 @@ public:
               count[s[left]-'A']--;
               left++;
             }
-            
+
             maxLength = max(maxLength,(right-left+1));
+            
        } 
     return maxLength;
     }
