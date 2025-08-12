@@ -56,6 +56,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0948-sort-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
