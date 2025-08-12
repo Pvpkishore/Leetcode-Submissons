@@ -154,6 +154,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
