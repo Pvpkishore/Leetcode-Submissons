@@ -15,6 +15,7 @@ public:
                 e = mid - 1;
             }
         }
+        
         // If target is not found, `s` represents the correct insertion index
         return s;
     }
