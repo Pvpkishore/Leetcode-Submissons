@@ -12,10 +12,12 @@ public:
                 if(count > 0)  result+=ch;         //skip outermost
                 count++;
             }
+
             else{
                  count--;
                  if(count > 0) result+=ch;        //skip outermost
             }
+            
         }
         return result;
     }
