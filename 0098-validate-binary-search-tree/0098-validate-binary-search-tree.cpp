@@ -34,10 +34,11 @@ public:
     bool isValidBST(TreeNode* root) {
         vector<int> inorder;
         storeInorder(root,inorder);
-        
+
        if(sorted(inorder)){
          return true;
        }
+       
        else{
           return false;
        }
