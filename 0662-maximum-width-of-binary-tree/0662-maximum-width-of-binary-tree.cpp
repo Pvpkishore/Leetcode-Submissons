@@ -49,5 +49,6 @@ public:
            ans = max(ans,(int)(last-first+1));
         }
         return ans;
+        // If curr_id is large (close to INT_MAX / 2), then multiplying by 2 causes an overflow. This happens because you're storing indices as int, but in a very deep or skewed binary tree, the node indices can grow large quickly when calculated as 2 * curr_id + 1 or 2 * curr_id + 2.
     }
 };
