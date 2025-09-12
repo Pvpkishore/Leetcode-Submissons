@@ -54,6 +54,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -180,6 +181,7 @@
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -200,6 +202,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1646-kth-missing-positive-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [0778-reorganize-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
@@ -287,6 +291,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -438,6 +443,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
