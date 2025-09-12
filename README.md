@@ -56,6 +56,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2551-apply-operations-to-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -99,6 +100,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
