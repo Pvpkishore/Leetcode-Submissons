@@ -34,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0300-longest-increasing-subsequence) |
@@ -197,6 +198,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0349-intersection-of-two-arrays) |
@@ -213,6 +215,7 @@
 | [0053-maximum-subarray](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0948-sort-an-array) |
 ## Counting
@@ -302,6 +305,7 @@
 | [0054-spiral-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
