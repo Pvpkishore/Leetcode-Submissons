@@ -12,6 +12,7 @@ public:
             }
             nums[j] = nums[i];
          }
+         
       return j+1;
     }
 };
