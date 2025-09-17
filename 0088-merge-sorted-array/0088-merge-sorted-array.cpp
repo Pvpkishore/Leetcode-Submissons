@@ -20,8 +20,6 @@ public:
             }
         }
 
-
-
       //just copying remaining elements from nums2 to nums1
         while(j>=0){
             nums1[k] = nums2[j];
