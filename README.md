@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0031-next-permutation) |
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0027-remove-element) |
@@ -169,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pvpkishore/Leetcode-Submissons/tree/master/0148-sort-list) |
