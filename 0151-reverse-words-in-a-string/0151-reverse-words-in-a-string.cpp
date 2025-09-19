@@ -37,6 +37,7 @@ public:
         // return ans;
 
         vector<string> words;
+
         string word;
 
         stringstream ss(s);
@@ -51,7 +52,7 @@ public:
         
         for(int i=0;i<words.size();i++){
             s+=words[i];
-            if(i<words.size()-1){
+            if(i < words.size()-1){
                 s+=" ";
             }
         }
