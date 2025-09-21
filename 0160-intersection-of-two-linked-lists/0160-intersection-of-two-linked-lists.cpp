@@ -24,6 +24,5 @@ public:
         }
          // Either both pointers meet at the intersection or both become null
         return pointerA;
-        
     }
 };
