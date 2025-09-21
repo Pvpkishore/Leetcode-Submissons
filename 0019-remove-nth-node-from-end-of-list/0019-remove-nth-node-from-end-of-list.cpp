@@ -23,11 +23,13 @@ public:
            fast=fast->next;
        }
 
+
        // Move both pointers until first reaches the end
         while (fast) {
             fast = fast->next;
             slow = slow->next;  //second stops just before the nth node
         }
+
 
         // Remove the nth node from end
         slow->next = slow->next->next;
