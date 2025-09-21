@@ -14,13 +14,14 @@ public:
     int maxDepth(TreeNode* root) {
 
         if(root==NULL){
-        return NULL;
+             return NULL;
         }
 
         int leftsubtreeheight = maxDepth(root->left);
         int rightsubtreeheight = maxDepth(root->right);
 
         int maxheight = max(leftsubtreeheight,rightsubtreeheight);
+        
         int totalHeight = maxheight+1;
 
         return totalHeight;
