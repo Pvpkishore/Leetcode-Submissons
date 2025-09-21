@@ -12,7 +12,6 @@ class Solution {
 public:
  bool isPalindrome(ListNode* head) {  
 
-        if (!head || !head->next) return true;
     //     //1.Find the middle Node
     //     ListNode* slow = head;
     //     ListNode* fast = head;
@@ -47,18 +46,21 @@ public:
 
     // return true;
 
-    ListNode* dummy = head;
+    if (!head || !head->next) return true;
+
+    ListNode* curr = head;
     string s ="";
     string Sreversed;
 
-    while(dummy!=NULL){
-        s+=dummy->val;
-        dummy = dummy->next;
+    while(curr!=NULL){
+        s+=curr->val;
+        curr = curr->next;
     }
 
     Sreversed = s;
+
     reverse(Sreversed.begin(),Sreversed.end());
 
-      return s==Sreversed;
+    return s==Sreversed;
     }
 };
