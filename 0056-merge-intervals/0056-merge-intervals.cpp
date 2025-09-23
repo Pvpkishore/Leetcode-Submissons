@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& arr) {
-       int n = arr.size(); // size of the array
+    int n = arr.size(); // size of the array
 
     //sort the given intervals:
     sort(arr.begin(), arr.end());
