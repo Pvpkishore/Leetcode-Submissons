@@ -19,6 +19,8 @@ public:
         }
 
         int lcs = dp[n][m];
+        
         return (n - lcs) + (m - lcs);
+        
     }
 };
